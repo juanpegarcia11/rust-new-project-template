@@ -33,7 +33,8 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"rust-lang.rust-analyzer",
-				"amazonwebservices.aws-toolkit-vscode"
+				"amazonwebservices.aws-toolkit-vscode",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	},
